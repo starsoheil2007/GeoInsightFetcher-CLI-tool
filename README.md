@@ -30,9 +30,9 @@ source myenv/bin/activate
 pip install -r requirements.txt
 ```
 
-That is!
+That's it!
 
-You can use it now
+You can use it now.
 
 ### How to use
 
